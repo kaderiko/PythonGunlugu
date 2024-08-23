@@ -6,3 +6,4 @@ Gün 1: Değişkenler ve Veri Tipleri
 Gün 2: Veri Yapıları           
 Gün 3: Koşul Yapıları                
 Gün 4: Koşul Yapıları
+Gün 5: Tekrar
