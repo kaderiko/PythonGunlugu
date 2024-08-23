@@ -5,3 +5,4 @@ Bu proje, Python programlama dili kullanılarak günlük tutma uygulaması geli�
 Gün 1: Değişkenler ve Veri Tipleri                
 Gün 2: Veri Yapıları           
 Gün 3: Koşul Yapıları                
+Gün 4: Koşul Yapıları
